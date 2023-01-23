@@ -89,7 +89,7 @@ Poll 1.3: Send [[P2655R1]] common_reference_t Of reference_wrapper Should Be A R
 <td>2
 <td>0
 <td>3
-<td>Weak consensus in favor.
+<td>Poll withdrawn due to new information. The Ranges Study Group will review it further.
 
 <tr>
 <td>
