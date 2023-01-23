@@ -93,7 +93,7 @@ Poll 1.3: Send [[P2655R1]] common_reference_t Of reference_wrapper Should Be A R
 
 <tr>
 <td>
-Poll 1.4: Reject C++23 National Body comment FR-015-026 Remove cbegin/cend From Spans And Views and any duplicate comments.
+Poll 1.4: Reject C++23 National Body comment [FR-015-026](https://github.com/cplusplus/nbballot/issues/417) Remove cbegin/cend From Spans And Views and any duplicate comments.
 <td>12
 <td>8
 <td>0
@@ -103,7 +103,7 @@ Poll 1.4: Reject C++23 National Body comment FR-015-026 Remove cbegin/cend From 
 
 <tr>
 <td>
-Poll 1.5: Reject C++23 National Body comment FR-013-020 Replace repeat With cycle and any duplicate comments.
+Poll 1.5: Reject C++23 National Body comment [FR-013-020](https://github.com/cplusplus/nbballot/issues/415) Replace repeat With cycle and any duplicate comments.
 <td>15
 <td>6
 <td>2
@@ -123,7 +123,7 @@ Poll 1.6: Send [[P2693R0]] Formatting thread::id And stacktrace to Library Worki
 
 <tr>
 <td>
-Poll 1.7: Reject [LWG3806](https://wg21.link/LWG3606) Should Concept formattable<T, charT> Default To char? and any duplicate issues.
+Poll 1.7: Reject [LWG3606](https://wg21.link/LWG3606) Should Concept formattable<T, charT> Default To char? and any duplicate issues.
 <td>8
 <td>6
 <td>4
@@ -133,7 +133,7 @@ Poll 1.7: Reject [LWG3806](https://wg21.link/LWG3606) Should Concept formattable
 
 <tr>
 <td>
-Poll 1.8: Reject C++23 National Body comment FR-003-010 Formatting Of Ranges Of tuple-like Objects and any duplicate comments.
+Poll 1.8: Reject C++23 National Body comment [FR-003-010](https://github.com/cplusplus/nbballot/issues/406) Formatting Of Ranges Of tuple-like Objects and any duplicate comments.
 <td>13
 <td>5
 <td>0
@@ -153,7 +153,7 @@ Poll 1.9: Send [[P2588R2]] Relax barrier Phase Completion Step Guarantees to Lib
 
 <tr>
 <td>
-Poll 1.10: Reject C++23 National Body comment US-43-104 subspan Type Confusion and any duplicate comments.
+Poll 1.10: Reject C++23 National Body comment [US-43-104](https://github.com/cplusplus/nbballot/issues/520) subspan Type Confusion and any duplicate comments.
 <td>5
 <td>7
 <td>2
@@ -163,7 +163,7 @@ Poll 1.10: Reject C++23 National Body comment US-43-104 subspan Type Confusion a
 
 <tr>
 <td>
-Poll 1.11: Reject C++23 National Body comment FR-002-015 Return A span From strides and any duplicate comments.
+Poll 1.11: Reject C++23 National Body comment [FR-002-015](https://github.com/cplusplus/nbballot/issues/405) Return A span From strides and any duplicate comments.
 <td>10
 <td>1
 <td>1
@@ -173,7 +173,7 @@ Poll 1.11: Reject C++23 National Body comment FR-002-015 Return A span From stri
 
 <tr>
 <td>
-Poll 1.12: Reject C++23 National Body comment GB-087 start_lifetime_as Is Broken And Inconsistent For Arrays as per [[P2679R1]] Fixing start_lifetime_as For Arrays .
+Poll 1.12: Reject C++23 National Body comment [GB-087](https://github.com/cplusplus/nbballot/issues/458) start_lifetime_as Is Broken And Inconsistent For Arrays as per [[P2679R1]] Fixing start_lifetime_as For Arrays .
 <td>14
 <td>3
 <td>1
@@ -203,7 +203,7 @@ Poll 1.14: Send [[P2674R1]] is_implicit_lifetime to Library Working Group for C+
 
 <tr>
 <td>
-Poll 1.15: Reject C++23 National Body comment US-30-072 Predefined Macros From The C Library and any duplicate comments.
+Poll 1.15: Reject C++23 National Body comment [US-30-072](https://github.com/cplusplus/nbballot/issues/502) Predefined Macros From The C Library and any duplicate comments.
 <td>12
 <td>4
 <td>1
@@ -213,7 +213,7 @@ Poll 1.15: Reject C++23 National Body comment US-30-072 Predefined Macros From T
 
 <tr>
 <td>
-Poll 1.16: Send the proposed resolution to C++23 National Body comment GB-080 Sync intmax_t And uintmax_t With C2x to Library Working Group for C++23, classified as an improvement of an existing feature ([[P0592R4]] bucket 2 item).
+Poll 1.16: Send the proposed resolution to C++23 National Body comment [GB-080](https://github.com/cplusplus/nbballot/issues/447) Sync intmax_t And uintmax_t With C2x to Library Working Group for C++23, classified as an improvement of an existing feature ([[P0592R4]] bucket 2 item).
 <td>12
 <td>8
 <td>0
@@ -243,7 +243,7 @@ Poll 1.18: Send [[P2614R1]] Deprecate numeric_limits::has_denorm to Library Work
 
 <tr>
 <td>
-Poll 1.19: Send the proposed resolution to C++23 National Body comment GB-081 Deprecate Contents Of <stdalign.h> to Library Working Group for C++23, classified as an improvement of an existing feature ([[P0592R4]] bucket 2 item).
+Poll 1.19: Send the proposed resolution to C++23 National Body comment [GB-081](https://github.com/cplusplus/nbballot/issues/454) Deprecate Contents Of <stdalign.h> to Library Working Group for C++23, classified as an improvement of an existing feature ([[P0592R4]] bucket 2 item).
 <td>15
 <td>7
 <td>0
@@ -253,7 +253,7 @@ Poll 1.19: Send the proposed resolution to C++23 National Body comment GB-081 De
 
 <tr>
 <td>
-Poll 1.20: Send the proposed resolution to C++23 National Body comment GB-082 Deprecate Contents Of <stdbool.h> to Library Working Group for C++23, classified as an improvement of an existing feature ([[P0592R4]] bucket 2 item).
+Poll 1.20: Send the proposed resolution to C++23 National Body comment [GB-082](https://github.com/cplusplus/nbballot/issues/453) Deprecate Contents Of <stdbool.h> to Library Working Group for C++23, classified as an improvement of an existing feature ([[P0592R4]] bucket 2 item).
 <td>16
 <td>6
 <td>0
@@ -263,7 +263,7 @@ Poll 1.20: Send the proposed resolution to C++23 National Body comment GB-082 De
 
 <tr>
 <td>
-Poll 1.21: Send the proposed resolution to C++23 National Body comment GB-084 Deprecate errc Constants Related To UNIX STREAMS to Library Working Group for C++23, classified as an improvement of an existing feature ([[P0592R4]] bucket 2 item).
+Poll 1.21: Send the proposed resolution to C++23 National Body comment [GB-084](https://github.com/cplusplus/nbballot/issues/444) Deprecate errc Constants Related To UNIX STREAMS to Library Working Group for C++23, classified as an improvement of an existing feature ([[P0592R4]] bucket 2 item).
 <td>11
 <td>8
 <td>2
@@ -273,7 +273,7 @@ Poll 1.21: Send the proposed resolution to C++23 National Body comment GB-084 De
 
 <tr>
 <td>
-Poll 1.22: Send the proposed resolution to C++23 National Body comment GB-121 Remove voidify to Library Working Group for C++23, classified as an improvement of an existing feature ([[P0592R4]] bucket 2 item).
+Poll 1.22: Send the proposed resolution to C++23 National Body comment [GB-121](https://github.com/cplusplus/nbballot/issues/452) Remove voidify to Library Working Group for C++23, classified as an improvement of an existing feature ([[P0592R4]] bucket 2 item).
 <td>9
 <td>9
 <td>1
