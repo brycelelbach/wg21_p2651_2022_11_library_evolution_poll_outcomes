@@ -283,7 +283,7 @@ Poll 1.22: Send the proposed resolution to C++23 National Body comment GB-121 Re
 
 <tr>
 <td>
-Poll 2.1: Send [[P2559R1]] Plan For Concurrency Technical Specification Version 2 to Library Working Group for tne Concurrency Technical Specification Version 2.
+Poll 2.1: Send [[P2559R1]] Plan For Concurrency Technical Specification Version 2 to Library Working Group for the Concurrency Technical Specification Version 2.
 <td>8
 <td>6
 <td>1
